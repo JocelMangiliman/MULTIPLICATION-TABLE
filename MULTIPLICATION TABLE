@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+<html>
+<body>
+
+<h2 style="text-align: center;">MULTIPLICATION TABLE</h2>
+
+<table>
+    <tr>
+    <td style="background-color: coral;">
+        1 x 1 = 1 <br>
+        1 x 2 = 2 <br>
+        1 x 3 = 3 <br>
+        1 x 4 = 4 <br>
+        1 x 5 = 5 <br>
+        1 x 6 = 6 <br>
+        1 x 7 = 7<br>
+        1 x 8 = 8<br>
+        1 x 9 = 9<br>
+        1 x 10 = 10<br>
+    </td>
+
+    <td style="background-color: rgb(202, 139, 202);"
+        1 x 1 = 1 <br>
+        1 x 2 = 2 <br>
+        1 x 3 = 3 <br>
+        1 x 4 = 4 <br>
+        1 x 5 = 5 <br>
+        1 x 6 = 6 <br>
+        1 x 7 = 7<br>
+        1 x 8 = 8<br>
+        1 x 9 = 9<br>
+        1 x 10 = 10<br>
+    </td>
+    
+    <td style="background-color: rgb(228, 228, 105);"
+        1 x 1 = 1 <br>
+        1 x 2 = 2 <br>
+        1 x 3 = 3 <br>
+        1 x 4 = 4 <br>
+        1 x 5 = 5 <br>
+        1 x 6 = 6 <br>
+        1 x 7 = 7<br>
+        1 x 8 = 8<br>
+        1 x 9 = 9<br>
+        1 x 10 = 10<br>
+    </td>
+
+    <td style="background-color: rgb(230, 119, 161);" >
+        1 x 1 = 1 <br>
+        1 x 2 = 2 <br>
+        1 x 3 = 3 <br>
+        1 x 4 = 4 <br>
+        1 x 5 = 5 <br>
+        1 x 6 = 6 <br>
+        1 x 7 = 7<br>
+        1 x 8 = 8<br>
+        1 x 9 = 9<br>
+        1 x 10 = 10<br>
+    </td>
+
+    <td style="background-color: rgb(196, 139, 250);" >
+        1 x 1 = 1 <br>
+        1 x 2 = 2 <br>
+        1 x 3 = 3 <br>
+        1 x 4 = 4 <br>
+        1 x 5 = 5 <br>
+        1 x 6 = 6 <br>
+        1 x 7 = 7<br>
+        1 x 8 = 8<br>
+        1 x 9 = 9<br>
+        1 x 10 = 10<br>
+    </td>
+</tr>
+
+
+    <tr>
+        <td style="background-color: rgb(85, 172, 212);" >
+            1 x 1 = 1 <br>
+            1 x 2 = 2 <br>
+            1 x 3 = 3 <br>
+            1 x 4 = 4 <br>
+            1 x 5 = 5 <br>
+            1 x 6 = 6 <br>
+            1 x 7 = 7<br>
+            1 x 8 = 8<br>
+            1 x 9 = 9<br>
+            1 x 10 = 10<br>
+        </td>
+    
+        <td style="background-color: rgb(224, 178, 79);" >
+            1 x 1 = 1 <br>
+            1 x 2 = 2 <br>
+            1 x 3 = 3 <br>
+            1 x 4 = 4 <br>
+            1 x 5 = 5 <br>
+            1 x 6 = 6 <br>
+            1 x 7 = 7<br>
+            1 x 8 = 8<br>
+            1 x 9 = 9<br>
+            1 x 10 = 10<br>
+        </td>
+        
+        <td style="background-color: rgb(73, 207, 91);"  >
+            1 x 1 = 1 <br>
+            1 x 2 = 2 <br>
+            1 x 3 = 3 <br>
+            1 x 4 = 4 <br>
+            1 x 5 = 5 <br>
+            1 x 6 = 6 <br>
+            1 x 7 = 7<br>
+            1 x 8 = 8<br>
+            1 x 9 = 9<br>
+            1 x 10 = 10<br>
+        </td>
+    
+        <td style="background-color: rgb(60, 102, 216);" >
+            1 x 1 = 1 <br>
+            1 x 2 = 2 <br>
+            1 x 3 = 3 <br>
+            1 x 4 = 4 <br>
+            1 x 5 = 5 <br>
+            1 x 6 = 6 <br>
+            1 x 7 = 7<br>
+            1 x 8 = 8<br>
+            1 x 9 = 9<br>
+            1 x 10 = 10<br>
+        </td>
+    
+        <td style="background-color: bisque;" >
+            1 x 1 = 1 <br>
+            1 x 2 = 2 <br>
+            1 x 3 = 3 <br>
+            1 x 4 = 4 <br>
+            1 x 5 = 5 <br>
+            1 x 6 = 6 <br>
+            1 x 7 = 7<br>
+            1 x 8 = 8<br>
+            1 x 9 = 9<br>
+            1 x 10 = 10<br>
+        </td>
+    </tr>
+ 
+</table>
